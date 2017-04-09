@@ -272,7 +272,7 @@
     },
     e.exports = h
 }
-, [1190, 89], function(e, t) {
+, [1200, 89], function(e, t) {
     "use strict";
     function n(e) {
         var t, n, r = arguments.length - 1, i = "Minified React error #" + e + "; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=" + e;
@@ -2002,7 +2002,7 @@
     o.addPoolingTo(r),
     e.exports = r
 }
-, [1190, 114], function(e, t, n) {
+, [1200, 114], function(e, t, n) {
     "use strict";
     function r() {
         return !o && i.canUseDOM && (o = "textContent"in document.documentElement ? "textContent" : "innerText"),
@@ -43143,7 +43143,7 @@
     }
     ])
 }
-, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , function(e, t, n) {
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , function(e, t, n) {
     "use strict";
     function r(e) {
         return e && e.__esModule ? e : {
@@ -44021,7 +44021,7 @@
     }(),
     u = n(84),
     c = r(u),
-    l = n(991),
+    l = n(1001),
     f = r(l),
     p = function(e) {
         function t() {
@@ -44116,13 +44116,13 @@
     Object.defineProperty(t, "__esModule", {
         value: !0
     }),
-    i = n(992),
+    i = n(1002),
     o = r(i),
-    a = n(994),
+    a = n(1004),
     s = r(a),
-    u = n(995),
+    u = n(1005),
     c = r(u),
-    l = n(996),
+    l = n(1006),
     f = r(l),
     p = {
         Email: o.default,
@@ -44183,7 +44183,7 @@
     }(),
     u = n(295),
     c = r(u),
-    l = n(993),
+    l = n(1003),
     f = r(l),
     p = function(e) {
         function t() {
@@ -44318,7 +44318,7 @@
             t
         }
     }(),
-    u = n(993),
+    u = n(1003),
     c = r(u),
     l = 1048576,
     f = function(e) {
@@ -44429,7 +44429,7 @@
             t
         }
     }(),
-    u = n(993),
+    u = n(1003),
     c = r(u),
     l = n(295),
     f = r(l),
@@ -44515,7 +44515,7 @@
             t
         }
     }(),
-    u = n(993),
+    u = n(1003),
     c = r(u),
     l = n(295),
     f = r(l),
@@ -44607,7 +44607,7 @@
     f = r(l),
     p = n(111),
     d = r(p),
-    h = n(990),
+    h = n(1e3),
     m = r(h),
     v = function(e) {
         function t() {
@@ -44765,9 +44765,9 @@
         s = r(a),
         u = n(111),
         c = r(u),
-        l = n(1004),
+        l = n(1014),
         f = r(l),
-        p = n(1006),
+        p = n(1016),
         d = r(p),
         h = function() {
             function t() {
@@ -44853,7 +44853,7 @@
     u = n(84),
     c = r(u),
     l = n(251),
-    f = n(1005),
+    f = n(1015),
     p = r(f),
     d = function(e) {
         function t(e) {
@@ -44947,11 +44947,11 @@
     p = n(84),
     d = r(p),
     h = n(251),
-    m = n(1005),
+    m = n(1015),
     v = r(m),
-    g = n(1007),
+    g = n(1017),
     y = r(g),
-    b = n(1009),
+    b = n(1019),
     w = r(b),
     window.Exness || (window.Exness = {}),
     window.Exness.OpenAccount || (window.Exness.OpenAccount = {}),
@@ -45166,7 +45166,7 @@
     ,
     c = n(84),
     l = r(c),
-    f = n(1008),
+    f = n(1018),
     p = r(f),
     window.Exness || (window.Exness = {}),
     window.Exness.OpenAccount || (window.Exness.OpenAccount = {}),
@@ -45432,7 +45432,7 @@
         void 0 !== a ? a.call(r) : void 0)
     }
     ,
-    c = n(1008),
+    c = n(1018),
     l = r(c),
     window.Exness || (window.Exness = {}),
     window.Exness.OpenAccount || (window.Exness.OpenAccount = {}),
